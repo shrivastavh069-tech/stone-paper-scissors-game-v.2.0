@@ -5,15 +5,15 @@ Stone Paper Scissor Game Version 2.0
 ✨ What's new in Version 2.0?
 
 🔹🎮 Three difficulty levels:
-      - 🥸 Easy
-      - 😈 Medium
-      - ☠️ Hard
+ - 🥸 Easy
+ - 😈 Medium
+ - ☠️ Hard
 
 🔹🤖 Multiple AI opponents:
-      - Bot
-      - Jarvis
-      - Trojis
-      - The Deadly Twins (Final Boss)
+ - Bot
+ - Jarvis
+ - Trojis
+ - The Deadly Twins (Final Boss)
 
 🔹 📊 Scoreboard system
 
