@@ -1,7 +1,5 @@
 # Stone-Paper-Scissors-Game-v.2.0
 
-Stone Paper Scissor Game Version 2.0
-
 ✨ What's new in Version 2.0?
 
 🔹🎮 Three difficulty levels:
