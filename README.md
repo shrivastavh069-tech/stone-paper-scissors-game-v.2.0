@@ -1,2 +1,24 @@
 # Stone-Paper-Scissors-Game-v.2.0
- Stone Paper Scissor Game – Version 2.0 Stone Paper Scissor Game Version 2.0 is an advanced command-line Python project created to improve my programming skills while making the game more interactive and enjoyable. Compared to the basic version, this release introduces multiple difficulty levels, unique AI opponents, score tracking, story-drive.
+
+Stone Paper Scissor Game Version 2.0
+
+✨ What's new in Version 2.0?
+
+🔹🎮 Three difficulty levels:
+      - 🥸 Easy
+      - 😈 Medium
+      - ☠️ Hard
+
+🔹🤖 Multiple AI opponents:
+      - Bot
+      - Jarvis
+      - Trojis
+      - The Deadly Twins (Final Boss)
+
+🔹 📊 Scoreboard system
+
+🔹 ❌ Invalid syntax detection with penalty system
+
+🔹 ⏳ Loading animations using the "time" module
+
+🔹 🎭 Story-based gameplay with dialogues and progression
